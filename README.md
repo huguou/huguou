@@ -90,7 +90,7 @@ Status: Concluído
 
 ## Objetivo
 
-Atuar como **Desenvolvedor Full Stack Júnior**, aplicando meus conhecimentos em desenvolvimento web, **e-commerce**, manutenção e customização de sistemas, contribuindo para a evolução de projetos reais e ampliando minha experiência na área de tecnologia.
+Atuar como **Desenvolvedor Full Stack**, aplicando meus conhecimentos em desenvolvimento web, **e-commerce**, manutenção e customização de sistemas, contribuindo para a evolução de projetos reais e ampliando minha experiência na área de tecnologia.
 
 ---
 
