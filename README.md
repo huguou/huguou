@@ -57,8 +57,8 @@ Tenho experiência prática com projetos reais em produção, principalmente em 
 
 ### Análise e Desenvolvimento de Sistemas
 
-**Uninove - Barueri, SP | 02/2024 - 08/2026**  
-Status: cursando
+**Uninove - Barueri, SP | 02/2024 - 10/2026**  
+Status: Concluído
 
 ---
 
