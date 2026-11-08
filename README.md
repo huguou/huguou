@@ -1,6 +1,6 @@
 # Olá, eu sou José Hugo
 
-**Desenvolvedor Full Stack Júnior | PHP, Laravel, MySQL e JavaScript**  
+**Desenvolvedor Full Stack | PHP, Laravel, MySQL e JavaScript**  
 Brasil
 
 Atuo com desenvolvimento web, manutenção de sistemas legados, customização de plataformas prontas e criação de funcionalidades front-end e back-end, com experiência prática em **e-commerce**.
